@@ -1,2 +1,3 @@
-# Penetration-Testing-Report-Hack-the-Box-Lab-Archetype-
-The following report documents the detailed steps of solving the Hack the Box Lab : Archetype and is styled in the form of a real-life Pentest report
+# Penetration Testing Report — Hack The Box: *Archetype*
+
+This repository contains a step-by-step penetration testing report for the Hack The Box lab **Archetype**. The document is presented in the format of a real-world pentest engagement and includes scope, methodology, vulnerability findings, exploit walkthroughs, risk ratings, and remediation recommendations.
